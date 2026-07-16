@@ -1,4 +1,4 @@
-# medios-de-transmisi-n-de-datos
+# medios de transmisión de datos
 conocer las gran diferencias de los medios de transmisión 
 # comparaciones de Medios de transmisión 
 
