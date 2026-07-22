@@ -41,11 +41,19 @@ Muy probablemente, la primera forma de comunicarse entre humanos fue la de los s
 
 ## 💻 Cuadro comparativo ( Medios de transmisión )💻.
 
-| Medios de transmisión | Característica| USO  | CERTIFICACIONES S/N  |EJEMPLOS|
-|-----------------------|---------------|------|----------------------|--------|
-| Fibra óptica          |               |      |                      |        |
-| Cable de par trenzado |               |      |                      |        |
-| Cable coaxial         |               |      |                      |        |
+| Medios de transmisión | Característica      | USO                | CERTIFICACIONES S/N  | EJEMPLOS
+|-----------------------|---------------------|--------------------|----------------------|------------|
+| Fibra óptica          | alta velocidad      | internet de alta   |          si          | monomodo,  |
+|                       | y ancho de banda;   | velocidad y redes  |                      | multimodo  |
+|                       |inmune al ruido.     | de larga distancia.|                      | (OM3, OM4) |
+|                       |                     |                    |                      |            |
+| Cable de par trenzado | hilos de cobre      | redes LAN,         |          si          | UTP, STP,  |
+|                       |  entrelazados;      | telefonías y       |                      | CAT 6A     |
+|                       | económico y flexible| oficinas.          |                      |            |
+|                       |                     |                    |                      |            |  
+| Cable coaxial         | núcleo de cobre con | TV por cable       |          si          | RG-6, RG-59|
+|                       | blindaje metálico;  | y radiofrecuencia. |                      |            |
+|                       | resistente.         |                    |                      |            |
 
 ---
 
